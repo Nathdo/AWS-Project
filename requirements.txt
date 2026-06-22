@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+torch 
+torchsummary
+torchvision
+tqdm 
+matplotlib
+fastapi
+openpyxl
+seaborn
