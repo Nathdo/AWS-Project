@@ -1,4 +1,4 @@
-# ML Integration - Cloud Architecture Project
+# ML Prediction Integration - Cloud Architecture Project
 
 Final project for the AWS Cloud Systems Management course. This project implements a serverless, AI-driven web application designed to predict and recommend specialized employment training tracks for the Haredi population in Israel using a custom Machine Learning model.
 
